@@ -9,7 +9,7 @@
 
 <!-- 🌱 Subtle Welcome Animation -->
 <h3 align="center">
-  <img src="https://graciousquotes.com/technology/" width="420"/>
+  <img src="https://giphy.com/gifs/rvappstudios-reaction-you-can-do-it-QbETS1Oznh7d0cOJgd" width="420"/>
 </h3>
 
 <br/>
