@@ -76,13 +76,11 @@ I like turning ideas into working AI systems, using projects as a way to underst
 
 ## 🤖 Generative AI & LLMs
 ![Groq](https://img.shields.io/badge/Groq_API-000000?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-8B5CF6?style=for-the-badge)
 
-- LLM inference using **Groq API**  
-- Working with **OpenAI API**  
+- LLM inference using **Groq API** 
 - LangChain (chains, tools, agents)  
 - Retrieval-Augmented Generation (RAG) concepts  
 - Embeddings and vector-based search  
