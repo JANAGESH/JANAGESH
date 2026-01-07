@@ -1,16 +1,10 @@
 <!-- ✨ Typing Animation Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2400&pause=200&color=22C55E&center=true&multiline=true&repeat=false&width=760&height=120&lines=Hi%2C+I'm+Janagesh+R" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=30&duration=2600&pause=150&color=22C55E&center=true&multiline=true&repeat=false&width=760&height=140&lines=Hello%2C+I'm+Janagesh+R!;Exploring+Machine+Learning+and+AI;Learning+Through+Experimentation" alt="Typing SVG"/>
+
   </a>
 </div>
-
-<br/>
-
-<!-- 🌱 Subtle Welcome Animation -->
-<h3 align="center">
-  <img src="https://giphy.com/gifs/rvappstudios-reaction-you-can-do-it-QbETS1Oznh7d0cOJgd" width="420"/>
-</h3>
 
 <br/>
 
@@ -31,9 +25,7 @@
 
 ## 🧭 About
 
-I am currently studying at IIT Dharwad, exploring Machine Learning, Deep Learning and Generative AI through hands-on experimentation.
-
-I like turning ideas into working AI systems, using projects as a way to understand how theory and computation translate into real-world solutions.
+I am currently studying at IIT Dharwad, exploring Machine Learning, Deep Learning and Generative AI. I focus on hands-on experimentation and careful implementation, translating theoretical ideas and computational methods into reliable, efficient, and practical AI systems that work effectively in real-world settings.
 
 ---
 
@@ -57,7 +49,7 @@ I like turning ideas into working AI systems, using projects as a way to underst
 
 - Supervised and unsupervised learning  
 - Feature engineering and data preprocessing  
-- Train–test split and cross-validation  
+- Train-test split and cross-validation  
 - Model training, evaluation, and analysis  
 - NLP fundamentals: text classification and embeddings  
 
@@ -114,8 +106,10 @@ I like turning ideas into working AI systems, using projects as a way to underst
 
 ## 🐧 OS & CLI
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
-- Linux (basic commands)  
+- Linux (basic commands)
+- Windows
 - Terminal / Bash usage  
 
 ---
@@ -123,7 +117,6 @@ I like turning ideas into working AI systems, using projects as a way to underst
 ## ⚙️ Familiar With
 - Hugging Face Transformers  
 - OpenCV  
-- REST APIs  
 - Docker (basic concepts)  
 - AWS (exposure level)  
 
