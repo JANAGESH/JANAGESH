@@ -31,11 +31,9 @@
 
 ## 🧭 About
 
-I’m interested in **Machine Learning, Deep Learning, and Generative AI**,  
-with a background that encourages a strong focus on **mathematical thinking and problem solving**.
+I am currently studying at IIT Dharwad, exploring Machine Learning, Deep Learning and Generative AI through hands-on experimentation.
 
-I enjoy understanding how models, data, and computation interact to build  
-**reliable and practical intelligent systems**.
+I like turning ideas into working AI systems, using projects as a way to understand how theory and computation translate into real-world solutions.
 
 ---
 
