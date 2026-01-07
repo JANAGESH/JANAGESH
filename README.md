@@ -15,15 +15,13 @@
 <br/>
 
 <!-- 🔗 Social Links -->
+<!-- 🔗 Professional Links -->
 <p align="center">
   <a href="https://linkedin.com/in/janagesh-r">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/JANAGESH">
-    <img src="https://img.shields.io/badge/GitHub-JANAGESH-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/JANAGESH">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
