@@ -1,7 +1,7 @@
 <!-- ✨ Typing Animation Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2400&pause=200&color=22C55E&center=true&multiline=true&repeat=false&width=760&height=120&lines=Hi%2C+I'm+Janagesh+R;Machine+Learning+%7C+Generative+AI;Exploring+Intelligent+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2400&pause=200&color=22C55E&center=true&multiline=true&repeat=false&width=760&height=120&lines=Hi%2C+I'm+Janagesh+R" />
   </a>
 </div>
 
