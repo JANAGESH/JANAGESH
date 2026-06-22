@@ -144,7 +144,7 @@ Analyzed 96K+ EV sales records and 1,100+ reviews to discover customer personas 
 
 ## 💻 Coding Journey
 
-- Solved 350+ Data Structures & Algorithms Problems
+- Solved 550+ Data Structures & Algorithms Problems
 - Strong Foundation in Algorithms & Problem Solving
 - Passionate About Building Scalable AI Systems
 
