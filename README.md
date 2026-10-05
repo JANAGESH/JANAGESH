@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineer** with a strong foundation in **Computer Science, Machine Learning, and Generative AI**, currently pursuing a **B.S.–M.S. in Interdisciplinary Sciences at IIT Dharwad**, with a **Physics major and Mathematics minor**.
+I’m a **Software Engineer** with a strong foundation in **Computer Science, Machine Learning and Generative AI**, currently pursuing a **B.S.–M.S. in Interdisciplinary Sciences at IIT Dharwad**, with a **Physics major and Mathematics minor**.
 
 I build software and AI systems across:
 
@@ -214,25 +214,6 @@ Built and compared custom CNN and ResNet-20 architectures for image classificati
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JANAGES&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANAGES&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JANAGES&theme=transparent&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JANAGES&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
 
 # 🧑‍💻 Problem Solving
 
@@ -259,10 +240,6 @@ Built and compared custom CNN and ResNet-20 architectures for image classificati
 ---
 
 # 💼 Experience
-
-### Software Engineer
-
-Currently working as a **Software Engineer**, with a focus on building software systems and applying AI/ML to real-world applications.
 
 ### Machine Learning & Data Science Intern — Feynn Labs
 
